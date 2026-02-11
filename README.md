@@ -6,7 +6,7 @@ Code following the YT tutorial of Andrej Karpathy.
 This is a ground-up implementation of Generative Pretrained Model that was built following the YouTube lecture of Andrej Karpathy. 
 
 Video Link: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-![Karpathy lecture](assets/karpathy_video_thumbnail.png)
+![Karpathy lecture](assets/Karpathy_video_thumbnail.png)
 
 ## Techinal Highlights:
 **Architecture**: Decoder-only Transformer.  
